@@ -20,13 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **About New Technologies**
 
-- 👨‍💻 All of my projects are available at [https://godsday.github.io/myprofile/](https://godsday.github.io/myprofile/)
+- 👨‍💻 All of my projects are available at [https://github.com/shabilbabu](https://github.com/shabilbabu)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **shabil8887@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s6t7OFw1cNLw9OqGn_xgJ5VY8s0ZYmZd/view?usp=sharing](https://drive.google.com/file/d/1s6t7OFw1cNLw9OqGn_xgJ5VY8s0ZYmZd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
